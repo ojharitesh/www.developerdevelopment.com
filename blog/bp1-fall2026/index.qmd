@@ -1,10 +1,12 @@
 ---
-title: "Postmortem Title"
+title: "Blameless Postmortem"
 description: "Review of the missed article, its contributing factors, and steps to prevent similar misses."
 author: "CMPSC-203 Students Fall 2026"
 date: "2026-10-26"
+categories: [post, software engineering]
+toc: true
+page-layout: full
 ---
-
 
 ## Incident Overview
 
