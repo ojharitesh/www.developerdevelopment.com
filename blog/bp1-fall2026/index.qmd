@@ -1,0 +1,27 @@
+---
+title: "Postmortem Title"
+description: "Review of the missed article, its contributing factors, and steps to prevent similar misses."
+author: "CMPSC-203 Students Fall 2026"
+date: "2026-10-26"
+---
+
+
+## Incident Overview
+
+## What Happened
+<!-- Describe the incident in clear, factual terms. -->
+
+## What went wrong?
+
+<!-- Document gaps, failures, delays, or missed opportunities without assigning blame. -->
+
+## Impact
+
+<!-- Describe who or what was affected, including scope and duration. -->
+
+## What can be done?
+
+
+## Lessons Learned
+
+<!-- Record the main lessons and how they should influence future work. -->
